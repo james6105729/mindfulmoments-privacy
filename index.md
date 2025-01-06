@@ -32,7 +32,7 @@
 
 1. 技術支持
    - 郵箱：mindfulmoments.tech@gmail.com
-   - GitHub Issues: https://github.com/[您的用戶名]/mindfulmoments-privacy/issues
+   - GitHub Issues: https://github.com/james6105729/mindfulmoments-privacy/issues
 
 2. 一般問題
    - 郵箱：mindfulmoments.support@gmail.com
