@@ -26,5 +26,18 @@
 - 刪除您的賬戶數據
 - 修改應用權限設置
 
-## 六、聯繫我們
-如有任何問題，請聯繫：support@mindfulmoments.com
+## 聯繫我們
+
+如有任何問題，您可以通過以下方式聯繫我們：
+
+1. 技術支持
+   - 郵箱：mindfulmoments.tech@gmail.com
+   - GitHub Issues: https://github.com/[您的用戶名]/mindfulmoments-privacy/issues
+
+2. 一般問題
+   - 郵箱：mindfulmoments.support@gmail.com
+
+3. 回應時間
+   - 一般問題：24小時內
+   - 技術問題：48小時內
+   - 建議反饋：3-5個工作日
