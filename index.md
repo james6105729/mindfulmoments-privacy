@@ -31,11 +31,11 @@
 如有任何問題，您可以通過以下方式聯繫我們：
 
 1. 技術支持
-   - 郵箱：mindfulmoments.tech@gmail.com
+   - 郵箱：mindfulmoments6105729@gmail.com
    - GitHub Issues: https://github.com/james6105729/mindfulmoments-privacy/issues
 
 2. 一般問題
-   - 郵箱：mindfulmoments.support@gmail.com
+   - 郵箱：mindfulmoments6105729@gmail.com
 
 3. 回應時間
    - 一般問題：24小時內
